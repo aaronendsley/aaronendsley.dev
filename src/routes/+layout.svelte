@@ -5,6 +5,10 @@
 	import './global.css';
 </script>
 
+<svelte:head>
+	<title>Aaron Endsley</title>
+</svelte:head>
+
 <div class="layout">
 	<div class="content-wrap">
 		<Header />
