@@ -9,16 +9,21 @@
 </script>
 
 <div class="Social">
-	<a href="https://twitter.com/aaronendsleydev" target="_blank" rel="noreferrer">
+	<a href="https://twitter.com/aaronendsleydev" target="_blank" rel="noreferrer" alt="twitter">
 		<Icon src={AiFillTwitterCircle} color={buttonColor} size={42} />
 	</a>
-	<a href="https://github.com/aaronendsley" target="_blank" rel="noreferrer">
+	<a href="https://github.com/aaronendsley" target="_blank" rel="noreferrer" alt="github">
 		<Icon src={AiFillGithub} color={buttonColor} size={42} /></a
 	>
-	<a href="https://www.linkedin.com/in/aaron-endsley-6786aa8a/" target="_blank" rel="noreferrer">
+	<a
+		href="https://www.linkedin.com/in/aaron-endsley-6786aa8a/"
+		target="_blank"
+		rel="noreferrer"
+		alt="linkedin"
+	>
 		<Icon src={AiFillLinkedin} color={buttonColor} size={42} />
 	</a>
-	<a href="mailto:aaronendsley@gmail.com" target="_blank" rel="noreferrer">
+	<a href="mailto:aaronendsley@gmail.com" target="_blank" rel="noreferrer" alt="email">
 		<Icon src={IoMailSharp} color={buttonColor} size={42} />
 	</a>
 </div>

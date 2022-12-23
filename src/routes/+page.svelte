@@ -2,7 +2,7 @@
 	import '@fontsource/roboto/700.css';
 	import '@fontsource/open-sans/400.css';
 	import AaronInSpace from '$lib/images/Aaron_in_Space.jpg?run';
-	import Aaron from '$lib/images/Aaron.jpg?run&width=200&height=200&fit=cover';
+	import Aaron from '$lib/images/Aaron.jpg?run&width=388&height=388&fit=cover';
 	import Img from '@zerodevx/svelte-img';
 </script>
 
