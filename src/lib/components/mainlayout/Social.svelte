@@ -9,10 +9,22 @@
 </script>
 
 <div class="Social">
-	<a href="https://twitter.com/aaronendsleydev" target="_blank" rel="noreferrer" alt="twitter">
+	<a
+		href="https://twitter.com/aaronendsleydev"
+		target="_blank"
+		rel="noreferrer"
+		alt="twitter"
+		aria-label="Twitter"
+	>
 		<Icon src={AiFillTwitterCircle} color={buttonColor} size={42} />
 	</a>
-	<a href="https://github.com/aaronendsley" target="_blank" rel="noreferrer" alt="github">
+	<a
+		href="https://github.com/aaronendsley"
+		target="_blank"
+		rel="noreferrer"
+		alt="github"
+		aria-label="Github"
+	>
 		<Icon src={AiFillGithub} color={buttonColor} size={42} /></a
 	>
 	<a
@@ -20,10 +32,17 @@
 		target="_blank"
 		rel="noreferrer"
 		alt="linkedin"
+		aria-label="LinkedIn"
 	>
 		<Icon src={AiFillLinkedin} color={buttonColor} size={42} />
 	</a>
-	<a href="mailto:aaronendsley@gmail.com" target="_blank" rel="noreferrer" alt="email">
+	<a
+		href="mailto:aaronendsley@gmail.com"
+		target="_blank"
+		rel="noreferrer"
+		alt="email"
+		aria-label="Email"
+	>
 		<Icon src={IoMailSharp} color={buttonColor} size={42} />
 	</a>
 </div>
