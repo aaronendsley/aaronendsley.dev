@@ -7,6 +7,7 @@
 
 <svelte:head>
 	<title>Aaron Endsley</title>
+	<meta name="description" content="The Developer portfolio and blog of Aaron Endsley" />
 </svelte:head>
 
 <div class="layout">
