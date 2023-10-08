@@ -16,7 +16,6 @@
 		"@sveltejs/kit": "^1.25.1",
 		"eslint": "^8.51.0",
 		"eslint-config-prettier": "^9.0.0",
-		"eslint-plugin-svelte3": "^4.0.0",
 		"postcss": "^8.4.31",
 		"postcss-load-config": "^4.0.1",
 		"prettier": "^3.0.3",
