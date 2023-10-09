@@ -1,4 +1,6 @@
 <script>
+	// @ts-nocheck
+
 	import '@fontsource/roboto/700.css';
 	import '@fontsource/open-sans/400.css';
 	import AaronInSpace from '$lib/images/Aaron_in_Space.jpg?as=run';

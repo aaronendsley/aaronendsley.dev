@@ -10,15 +10,6 @@
 
 <div class="Social">
 	<a
-		href="https://twitter.com/aaronendsleydev"
-		target="_blank"
-		rel="noreferrer"
-		alt="twitter"
-		aria-label="Twitter"
-	>
-		<Icon src={AiFillTwitterCircle} color={buttonColor} size={42} />
-	</a>
-	<a
 		href="https://github.com/aaronendsley"
 		target="_blank"
 		rel="noreferrer"
